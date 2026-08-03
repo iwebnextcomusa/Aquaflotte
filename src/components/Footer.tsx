@@ -13,12 +13,12 @@ export const Footer: React.FC = () => {
           {/* Company Branding Column */}
           <div className="lg:col-span-4 space-y-4">
             <a href="#hero" className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-sky-500 p-0.5 shadow-md flex items-center justify-center">
-                <div className="w-full h-full bg-slate-900 rounded-[10px] flex items-center justify-center relative">
-                  <Truck className="w-5 h-5 text-sky-400" />
-                  <Sparkles className="w-3 h-3 text-sky-300 absolute top-1 right-1" />
-                </div>
-              </div>
+              <img
+                src="https://ovueqoxhkaiksaei.public.blob.vercel-storage.com/Create_logo_for_Aquaflotte_2K_202608040038.jpeg"
+                alt="Aquaflotte Fleet Washing Montreal Logo"
+                className="h-12 w-auto object-contain rounded-lg shadow-sm"
+                referrerPolicy="no-referrer"
+              />
               <div>
                 <div className="text-xl font-black text-white tracking-tight">
                   AQUA<span className="text-sky-400">FLOTTE</span>

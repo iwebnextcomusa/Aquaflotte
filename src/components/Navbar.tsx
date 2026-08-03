@@ -75,12 +75,12 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenQuoteModal }) => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           {/* Logo Concept */}
           <a href="#hero" className="flex items-center gap-3 group">
-            <div className="relative w-10 h-10 sm:w-11 sm:h-11 rounded-xl bg-gradient-to-br from-blue-900 to-sky-500 p-0.5 shadow-md group-hover:shadow-lg transition-all">
-              <div className="w-full h-full bg-blue-900 rounded-[10px] flex items-center justify-center relative overflow-hidden">
-                <Truck className="w-5 h-5 text-white relative z-10 group-hover:scale-110 transition-transform" />
-                <Sparkles className="w-3 h-3 text-sky-300 absolute top-1 right-1" />
-              </div>
-            </div>
+            <img
+              src="https://ovueqoxhkaiksaei.public.blob.vercel-storage.com/Create_logo_for_Aquaflotte_2K_202608040038.jpeg"
+              alt="Aquaflotte Fleet Washing Montreal Logo"
+              className="h-10 sm:h-12 w-auto object-contain rounded-lg shadow-sm group-hover:scale-105 transition-transform"
+              referrerPolicy="no-referrer"
+            />
             <div>
               <div className="text-xl sm:text-2xl font-black tracking-tight flex items-center gap-0.5 text-blue-900">
                 AQUA<span className="text-sky-500">FLOTTE</span>
