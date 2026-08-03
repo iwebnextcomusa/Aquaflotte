@@ -1,0 +1,6 @@
+{
+  "name": "Aquaflotte - Fleet Washing Services",
+  "description": "Professional mobile fleet washing, truck cleaning, and heavy equipment pressure washing services in Montreal, Quebec.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
