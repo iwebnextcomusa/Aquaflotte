@@ -77,6 +77,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     benefits: ['Job-site environmental compliance', 'Concrete & mortar haze removal', 'Undercarriage high-pressure wash', 'Fast turnaround between jobs'],
     iconName: 'Wrench',
     category: 'Industrial',
+    image: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=80',
   },
   {
     id: 'bus-cleaning',
@@ -86,6 +87,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     benefits: ['Streak-free window finish', 'Gentle on vinyl wraps & graphics', 'Disinfectant exterior rinse available', 'Off-peak overnight cleaning'],
     iconName: 'Bus',
     category: 'Commercial',
+    image: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80',
   },
   {
     id: 'trailer-washing',
@@ -95,6 +97,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     benefits: ['FDA/CFIA sanitary compliance', 'Deodorization & sanitized rinse', 'Aluminum trailer brightening', 'Fast terminal turnaround'],
     iconName: 'Box',
     category: 'Logistics',
+    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80',
   },
   {
     id: 'pressure-washing',
@@ -104,6 +107,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     benefits: ['Up to 4,000 PSI high power', 'Oil & chemical spill restoration', 'Concrete & asphalt cleaning', 'Slip-hazard mitigation'],
     iconName: 'Zap',
     category: 'Property',
+    image: 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1200&q=80',
   },
   {
     id: 'mobile-fleet-cleaning',
@@ -124,6 +128,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     iconName: 'CalendarCheck',
     category: 'Contract',
     popular: true,
+    image: 'https://images.unsplash.com/photo-1580674684081-7617fbf3d745?auto=format&fit=crop&w=1200&q=80',
   },
 ];
 
