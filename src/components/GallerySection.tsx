@@ -72,7 +72,7 @@ export const GallerySection: React.FC = () => {
           >
             {/* Dirty Image (Background - Before) */}
             <img
-              src="/src/assets/images/heavy_machinery_wash_1785777839482.jpg"
+              src="https://images.unsplash.com/photo-1579412690850-bd41cd0af397?auto=format&fit=crop&w=1200&q=80"
               alt="Before - Dirty Heavy Machinery"
               className="absolute inset-0 w-full h-full object-cover filter contrast-125 saturate-50 brightness-75"
               referrerPolicy="no-referrer"
@@ -87,7 +87,7 @@ export const GallerySection: React.FC = () => {
               style={{ width: `${100 - sliderPos}%` }}
             >
               <img
-                src="/src/assets/images/clean_semi_truck_fleet_1785777884394.jpg"
+                src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=1200&q=80"
                 alt="After - Spotless Fleet Vehicle"
                 className="absolute inset-y-0 right-0 max-w-none h-full object-cover"
                 style={{ width: '100%', minWidth: '100%' }}

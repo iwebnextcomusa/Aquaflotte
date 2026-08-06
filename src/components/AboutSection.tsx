@@ -11,7 +11,7 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-2xl overflow-hidden border border-slate-200 shadow-xl group">
               <img
-                src="/src/assets/images/mobile_wash_unit_1785777853344.jpg"
+                src="https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=1200&q=80"
                 alt="Aquaflotte Mobile Fleet Wash Unit in Montreal"
                 className="w-full h-[420px] sm:h-[480px] object-cover group-hover:scale-105 transition-transform duration-500"
                 referrerPolicy="no-referrer"

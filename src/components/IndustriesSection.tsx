@@ -106,7 +106,7 @@ export const IndustriesSection: React.FC = () => {
             {/* Image Feature */}
             <div className="lg:col-span-5 h-64 sm:h-80 rounded-xl overflow-hidden border border-slate-200 relative shadow-md">
               <img
-                src={activeIndustry.image || '/src/assets/images/clean_semi_truck_fleet_1785777884394.jpg'}
+                src={activeIndustry.image || 'https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=1200&q=80'}
                 alt={activeIndustry.name}
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
